@@ -1,4 +1,4 @@
-__author__ = 'annadecker'
+__author__ = 'annadecker'   # test
 
 # Import library
 import pygame, random
